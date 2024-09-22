@@ -1,0 +1,2 @@
+Prefix plugins/SITH/example/
+Plugin SITH inputfile parameters.txt outputfile tumor.csv

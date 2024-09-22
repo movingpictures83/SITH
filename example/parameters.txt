@@ -1,0 +1,4 @@
+max_pop	1000
+nsamples	5
+cubelength	5
+threshold	0.05
